@@ -99,7 +99,7 @@ in the root folder.
 	PUT - ```http://localhost:5000/api/users/:id```
 	DELETE - ```http://localhost:5000/api/users/:id```
 	
-  5. If you want to deploy with pm2, stop the ```npm start``` and run ```npm dev``` and it will start in a single process.
+  5. If you want to deploy with pm2, stop the ```npm start```, run ```npm dev``` and it will start in a single process.
 
 ### Tests
 
